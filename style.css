@@ -22,6 +22,7 @@ color: var(--branco-principal);
     padding: 0;
    }
 
+/* INICIO AULA 02 */
 .principal {
 
     background-image: url("img/Background.png");
@@ -33,3 +34,17 @@ color: var(--branco-principal);
 .container {
     height: 100vh;
    }
+/*  FIM AULA 03 */
+
+
+
+/*   INICIO AULA 04  */
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: lem;
+    color: var(--branco-principal);
+    display: block;
+}
+
+/* FIM DA AULA 4 */
