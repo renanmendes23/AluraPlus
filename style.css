@@ -7,7 +7,10 @@
 --botao-azul: #167BF7;
 --cor-de-fundo: #00030C;
 --fonte-principal: Inter;
-
+/* COPIE AS TAG ABAIXO */
+--botao-azul: #167BF7;
+--botao-azul-efeito:#96b7e0;
+/*  PARE AQUI  */
 
 }
 
@@ -129,3 +132,26 @@ margin-top: 1em;
     padding: 2em;
 
 }
+
+.dispositivos__lista { 
+
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+    
+}
+
+.dispositivos {
+    text-align: center;
+
+}
+
+.lista__item {
+    font-size: 32px;
+    color:var(--branco-principal);
+
+}
+
+
+/*-------------------------------------------------  Continuação ---------------------------------------------*/
